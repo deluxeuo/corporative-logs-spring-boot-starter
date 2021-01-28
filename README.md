@@ -1,0 +1,1 @@
+# corporative-logs-spring-boot-starter
